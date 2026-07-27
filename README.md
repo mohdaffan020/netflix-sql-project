@@ -687,7 +687,7 @@ FROM base;
 
 ---
 
-# 🛠 Tools Used
+# Tools Used
 
 - PostgreSQL
 - SQL
@@ -695,7 +695,7 @@ FROM base;
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Netflix-Content-Analysis
