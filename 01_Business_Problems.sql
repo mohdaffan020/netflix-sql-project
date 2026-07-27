@@ -1,7 +1,6 @@
 -- Phase 1 : Exploratory Data Analysis (EDA)
 -- Understanding Netflix's Content Catalog
 
-
 1. Count the number of Movies vs TV Shows.
 2. Find the most common rating for Movies and TV Shows.
 3. List all Movies released in a specific year (e.g., 2020).
