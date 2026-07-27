@@ -1,0 +1,39 @@
+-- Phase 1 : Exploratory Data Analysis (EDA)
+-- Understanding Netflix's Content Catalog
+
+
+1. Count the number of Movies vs TV Shows.
+2. Find the most common rating for Movies and TV Shows.
+3. List all Movies released in a specific year (e.g., 2020).
+4. Find the Top 5 countries with the highest number of Netflix titles.
+5. Identify the longest Movie available on Netflix.
+6. Find all content added to Netflix in the last 6 years.
+7. Find all Movies and TV Shows directed by 'Rajiv Chilaka'.
+8. List all TV Shows with more than 5 seasons.
+9. Count the number of content titles available in each genre.
+10. Analyze India's yearly content contribution to Netflix and identify the Top 5 years with the highest releases.
+11. List all Documentary Movies available on Netflix.
+12. Identify content records with missing director information.
+13. Find the number of Salman Khan movies released during the last 10 years.
+14. Identify the Top 10 actors appearing in Indian-produced Netflix content.
+15. Categorize content into 'Good' and 'Bad' based on the presence of keywords such as 'Kill' or 'Violence' in the description.
+
+
+-- Phase 2 : Business Analytics & Decision Support
+-- Generating Actionable Business Insights
+
+16. Identify the year with the highest number of Netflix content releases.
+17. Determine which month records the highest number of content additions.
+18. Identify the weekday on which Netflix adds the most content.
+19. Find the Top 10 directors with the highest number of Movies and TV Shows on Netflix.
+20. Compare Movie vs TV Show production percentages for each country.
+21. Calculate the average Movie duration by country.
+22. Identify directors who have worked across the highest number of genres.
+23. Find actors with the most diverse genre portfolios.
+24. Analyze the most successful Actor–Director collaborations on Netflix.
+25. Identify titles that took the longest time to be added to Netflix after their original release.
+26. Rank countries by yearly content production using window functions.
+27. Perform Year-over-Year (YoY) growth analysis of Netflix content additions.
+28. Analyze Year-over-Year (YoY) growth of individual genres.
+29. Calculate a Content Diversity Score for each country based on genre distribution.
+30. Build an Executive Content Health Report summarizing key Netflix catalog KPIs.
