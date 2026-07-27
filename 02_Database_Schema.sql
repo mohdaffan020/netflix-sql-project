@@ -1,4 +1,4 @@
---  Project : Netflix Content Analytics
+--  Project : Netflix Content Analysis
 --  File    : 01_Database_Schema.sql
 --  Purpose : Create Netflix table for analysis
 
